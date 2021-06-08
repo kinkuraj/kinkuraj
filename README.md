@@ -1,6 +1,9 @@
-### Hi there 👋
-Senior Project Engineer at Wipro Limited
-AWS Certified Developer Associate
+### Hi there 👋 
+
+Senior Project Engineer at Wipro Limited 
+
+AWS Certified Developer Associate 
+
 <!--
 **kinkuraj/kinkuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
