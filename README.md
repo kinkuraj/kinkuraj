@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kinkuraj Sahoo  
 
-**Founder & CEO at [Mira Software](https://mirassoftware.co.za)**  
+**Founder & CEO at [Mira Software](http://mirasoftware.co.za)**  
 **AWS Certified | Sr. Software Engineer | AI Innovator**
 
 ---
@@ -68,7 +68,7 @@ Outside of code, I enjoy mentoring developers, experimenting with AI tools, and 
 ---
 
 ### 🤝 Let’s Connect  
-🌐 [www.mirassoftware.co.za](https://mirassoftware.co.za)  
+🌐 [www.mirassoftware.co.za](http://mirasoftware.co.za)  
 ✉️ [kinkuraj@mirasoftware.co.za](mailto:kinkuraj@mirasoftware.co.za)  
 💼 [LinkedIn](https://www.linkedin.com/in/kinkuraj)  
 
